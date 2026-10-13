@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+prepared/
+runs/
+validation_work/
